@@ -1,4 +1,4 @@
-# Practicas ThinkBit
+# Prácticas ThinkBit
 
 Introducción a Arduino
 
