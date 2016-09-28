@@ -2,6 +2,6 @@
 
 Introducción a Arduino
 
-License: MIT CC BY-NC-SA 4.0
+License: CC BY-NC-SA 4.0
 
  
